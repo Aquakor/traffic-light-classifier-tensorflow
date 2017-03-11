@@ -6,8 +6,8 @@ Repository developed using [TensorFlow For Poets Codelab](https://codelabs.devel
 * Linux or OS X
 
 ## Usage
-1. Start docker image 'docker run -it -v $HOME/tf_files:/tf_files  gcr.io/tensorflow/tensorflow:latest-devel'
-2. Run python script to label your image 'python /tf_files/label_image.py <path_to_image>
+1. Start docker image `docker run -it -v $HOME/tf_files:/tf_files  gcr.io/tensorflow/tensorflow:latest-devel`
+2. Run python script to label your image `python /tf_files/label_image.py <path_to_image>`
 
 ## Results
 ### Accuracy - 79.9%
