@@ -10,6 +10,5 @@ Repository developed using [TensorFlow For Poets Codelab](https://codelabs.devel
 2. Run python script to label your image 'python /tf_files/label_image.py <path_to_image>
 
 ## Results
-### Accuracy
-79.9%
+### Accuracy - 79.9%
 ![accuracy](screenshot/finaltestacc.png)
